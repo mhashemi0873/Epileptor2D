@@ -1,2 +1,2 @@
 # Epileptor2D
-EpileptorParameterInference
+Bayesian parameter inference of 2D Epileptor model in different ways.
