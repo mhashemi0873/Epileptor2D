@@ -1,0 +1,2 @@
+# Epileptor2D
+EpileptorParameterInference
